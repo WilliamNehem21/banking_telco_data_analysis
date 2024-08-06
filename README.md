@@ -1,4 +1,4 @@
-# Visualisasi Bank Information
+# Bank Information Visualization
 
 ## Project Overview
 This project aims to analyze and visualize bank transaction data to extract meaningful insights into customer profiles and their transaction behaviors, especially in relation to data plan usage.
